@@ -1,5 +1,7 @@
 # Queen Attack
 
+Please note: I wrote the queen_attack.cpp and queen_attack.h files. I did not write pangram_test.cpp file. Thanks, Walt
+
 Welcome to Queen Attack on Exercism's C++ Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
 
